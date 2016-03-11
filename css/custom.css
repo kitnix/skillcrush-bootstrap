@@ -1,0 +1,71 @@
+html, body{
+  background-color: #fff;
+}
+
+h1, h2, .jumbotron h1 {
+  color: #01B6AD;
+  font-family: cursive;
+}
+
+p {
+  color: #0a4958;
+}
+
+.jumbotron {
+  background-color: #F6E7D2;
+  height: auto;
+}
+
+.btn-custom {
+  background-color: #0A4958;
+  border-radius: 0px;
+  color: #fff;
+  font-weight:bold;
+}
+
+/* ------------- Navigation --------- */
+.navbar-default {
+	background-color: #f6e7d2;
+  margin-bottom: 0px;
+  border: none;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #0a4958;
+}
+
+.navbar-default .navbar-nav .active > a {
+  background-color: #01B6AD;
+  color: #f6e7d2;
+}
+
+.navbar-default .navbar-toggle {
+  background-color: #0A4958;
+  border-color: #01b6ad;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+  background-color: #01B6AD;
+}
+/*---------IMG ---------*/
+.prof-pic img {
+  width: 200px;
+  height: auto;
+  border-radius: 100%;
+  float: right;
+  margin-top: -200px;
+  margin-left: -50px;
+}
+
+
+.content{
+  clear: both;
+  background-color: #fff;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 650px){
+  .prof-pic{
+    display:none;
+  }
+}
