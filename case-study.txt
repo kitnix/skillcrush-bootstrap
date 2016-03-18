@@ -1,0 +1,14 @@
+Title: 
+	Bootstrap One-page bio test site
+
+Summary:
+	A simple one page site to demonstrate the use of Bootstrap's frameworks. 
+
+Tools:  Atom
+	Chrome dev tools
+
+Languages: HTML
+	   CSS
+	   Bootstrap
+
+Bootstrap really changed my life. Having frameworks at my fingertips makes coding so much faster. Pre-written responsive css makes things so much easier. I wrote custom css to override some of the classes to suit my design needs. I look forward to utilizing Bootstrap in future projects. 
