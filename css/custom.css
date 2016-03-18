@@ -1,5 +1,6 @@
 html, body{
   background-color: #fff;
+  font-size: 16px;
 }
 
 h1, h2, .jumbotron h1 {
@@ -47,6 +48,11 @@ p {
 .navbar-default .navbar-toggle .icon-bar{
   background-color: #01B6AD;
 }
+
+img{
+  margin-top: -6px;
+}
+
 /*---------IMG ---------*/
 .prof-pic img {
   width: 200px;
